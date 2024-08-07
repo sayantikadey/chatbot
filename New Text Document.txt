@@ -1,0 +1,31 @@
+SWING is for make the FRAME.
+
+setSize() -> for frame size.
+setVisible(true) -> used to show the frame.It should be last line of the statement
+setLocation() -> to change the location , where the frame is going to open.
+setLayout() -> used to set the layout inside the frame.
+JPanel -> is for change or add anything in the top of the frame.
+setBounds() ->  to pass the coordinates.
+p1.add back -> we're adding back on the p1.
+We can;t pass i2 directly to the JLable, that;s why we made i3 to pass the i2 instance.
+JLable -> used to write anything on the frame.
+setUndecorated(true) -> for remove the header of the frame.
+JTextField -> where user can write anything 
+getText -> to get whatever user is writing in the text field.
+BorderLayout -> help to set the element top, bittom, left, right, centre.
+verticalBox -> sent output is coming one after one.
+BorderLayoutRight LineEnd-> output is coming right side of the frame.
+VerticalStrut(15) -> after 15px next output will show
+we can add html tags into the string.
+text.setText("") -> means after send the msg the text input will be empty.
+set.Text() -> for setting any value dynamically.
+
+SOCKET is for make it working together CLIENT and SERVER side both.
+
+inputstream() -> for read the data.
+outputstream() -> for send the data.
+readUTF() -> for read the data which is in the msg.
+WriteUTF() -> for display the data from the msg
+when we're adding verticle it's giving erro that we can't add non static method. that's why we make is static.
+now we cant extends JFrame. We need to create object of JFrame class. After creating object all the methods we called are giving errors.
+So we need to use that using object refference. eg. f.add
