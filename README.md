@@ -1,1 +1,1 @@
-# chatbot
+This project involves the development of an intelligent chatbot utilizing Java Swing for the graphical user interface and a socket mechanism for real-time communication. By leveraging the capabilities of these technologies, the chatbot efficiently processes user queries and delivers prompt responses, demonstrating a seamless interaction experience. This implementation not only showcases my proficiency in Java but also emphasizes my ability to integrate different programming concepts to create functional applications.
